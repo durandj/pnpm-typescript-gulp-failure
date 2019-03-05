@@ -1,0 +1,26 @@
+{
+  "name": "pnpm-typescript-gulp-failure",
+  "version": "1.0.0",
+  "description": "Minimum example of the failure",
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/durandj/pnpm-typescript-gulp-failures/issues"
+  },
+  "homepage": "https://github.com/durandj/pnpm-typescript-gulp-failures#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durandj/pnpm-typescript-gulp-failures.git"
+  },
+  "main": "index.js",
+  "scripts": {
+      "tasks": "gulp"
+  },
+  "devDependencies": {
+    "@types/gulp": "^4.0.5",
+    "gulp": "^4.0.0",
+    "gulp-cli": "^2.0.1",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.3333"
+  }
+}
